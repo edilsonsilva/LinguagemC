@@ -33,3 +33,26 @@ int main(){
 
 
 
+int x = 55
+float t = 120.30
+char ts = 'f'
+
+char nome[30] = "Hoje";
+
+String nome = "Hoje";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
