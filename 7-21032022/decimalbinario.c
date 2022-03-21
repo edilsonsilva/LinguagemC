@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <math.h>
 
 int main(){
-    int decimal = 0;
+    /*int decimal = 0;
     int resto = 1;
     int multiplicador = 1;
     int resultado = 0;
@@ -13,7 +14,7 @@ int main(){
         decimal = decimal / 2 ;
         resultado = resultado + resto * multiplicador;
         multiplicador = multiplicador * 10;
-    }
-    printf("%d",resultado);
+    }*/
+    printf("%d",pow(2,3));
     return 0;
 }
