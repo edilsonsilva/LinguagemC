@@ -7,7 +7,7 @@ retorno, sem retorno, com argumentos(parâmetros), sem argumentos
 
 void separadorHT(){
     printf("\n");
-    for(int i = 0 ; i <= 50 ; i++){
+    for(int i = 0 ; i <= 100 ; i++){
         printf("#");
     }
     printf("\n");
@@ -15,7 +15,7 @@ void separadorHT(){
 void separadorLinha(){
     
     printf("\n");
-    for(int i = 0 ; i <= 50 ; i++){
+    for(int i = 0 ; i <= 100 ; i++){
         printf("_");
     }
     printf("\n");
