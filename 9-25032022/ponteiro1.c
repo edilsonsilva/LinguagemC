@@ -8,5 +8,5 @@ void main(){
 
     int valor = 50;
     int *pvalor = &valor;
-    printf("%d é o valor e a posição em memória é %p\n",valor,pvalor);
+    printf("%d é o valor mais informacoes e a posição em memória é %p\n",valor,pvalor);
 }
