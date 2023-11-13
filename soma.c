@@ -4,10 +4,11 @@
 
 /*função principal*/
 int main(){
+    
     int numero1, numero2, resultado;
     printf("Digite um número:\n");
     scanf("%d",&numero1);
-
+   
     printf("Digite outro número:\n");
     scanf("%d",&numero2);
 
